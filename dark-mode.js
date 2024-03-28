@@ -1,36 +1,30 @@
-Himport java.io.BufferedReader;
-import java.io.InputStreamReader;
-import java.net.HttpURLConnection;
-import java.net.URL;
+function generateRandomNumber(min, max) {
+    return Math.floor(Math.random() * (max - min + 1) + min);
+}
 
-public class Main {
-    public static void main(String[] args) {
-        try {
-            // URL do site da Ecopet
-            String siteUrl = "https://www.ecopet.com";
-
-            // Criação da conexão HTTP
-            URL url = new URL(siteUrl);
-            HttpURLConnection connection = (HttpURLConnection) url.openConnection();
-            connection.setRequestMethod("GET");
-
-            // Leitura da resposta do servidor
-            BufferedReader reader = new BufferedReader(new InputStreamReader(connection.getInputStream()));
-            StringBuilder response = new StringBuilder();
-            String line;
-            while ((line = reader.readLine()) != null) {
-                response.append(line);
-            }
-            reader.close();
-
-            // Exibição do conteúdo da resposta no console
-            System.out.println("Conteúdo da página:");
-            System.out.println(response.toString());
-
-            // Fechamento da conexão
-            connection.disconnect();
-        } catch (Exception e) {
-            e.printStackTrace();
+function generateCardNumber() {
+    let cardNumber = '';
+    for (let i = 0; i < 16; i++) {
+        cardNumber += generateRandomNumber(0, 9);
+        if ((i + 1) % 4 === 0 && i < 15) {
+            cardNumber += ' ';
         }
     }
+    return cardNumber;
+}
+
+function generateExpirationDate() {
+    const month = generateRandomNumber(1, 12).toString().padStart(2, '0');
+    const year = generateRandomNumber(22, 30).toString();
+    return `${month}/${year}`;
+}
+
+function generateCVV() {
+    return generateRandomNumber(100, 999).toString();
+}
+
+function generateCard() {
+    document.querySelector('.card-number').textContent = generateCardNumber();
+    document.querySelector('.expiration-date').textContent = generateExpirationDate();
+    document.querySelector('.cvv').textContent = generateCVV();
 }
