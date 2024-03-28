@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gerador de Cartões de Crédito</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #141414;
+            color: #fff;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+        }
+        .container {
+            max-width: 800px;
+            width: 100%;
+            text-align: center;
+        }
+        .header {
+            margin-bottom: 30px;
+        }
+        .content {
+            margin-bottom: 50px;
+        }
+        .card {
+            background-color: #333;
+            border-radius: 10px;
+            padding: 20px;
+            margin-bottom: 20px;
+        }
+        .card-number, .expiration-date, .cvv {
+            font-size: 24px;
+            margin-bottom: 10px;
+        }
+        #generate-btn {
+            background-color: #e50914;
+            color: #fff;
+            border: none;
+            padding: 15px 30px;
+            font-size: 20px;
+            border-radius: 5px;
+            cursor: pointer;
+            transition: background-color 0.3s;
+        }
+        #generate-btn:hover {
+            background-color: #ff4d5a;
+        }
+        .footer {
+            position: fixed;
+            bottom: 0;
+            left: 0;
+            width: 100%;
+            background-color: #000;
+            padding: 20px;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaT6j2WbzIA-P1xxWNYkcLSNkcxBQ_CUH5klhmi10lAK9VFsaxHhYoXt6Q&s=10" alt="Netflix Logo" width="200">
+        </div>
+        <div class="content">
+            <h1>Gerador de Cartões de Crédito</h1>
+            <div id="card-container"></div>
+            <button id="generate-btn">Gerar Novo Cartão</button>
+        </div>
+        <div class="footer">
+            <p>&copy; 2024 Netflix</p>
+        </div>
+    </div>
+    <script>
+        function generateCardNumber() {
+            var cardNumber = '4'; // Começa com 4 para ser Visa válido
+            for (var i = 0; i < 15; i++) {
+                cardNumber += Math.floor(Math.random() * 10);
+            }
+            return cardNumber;
+        }
+
+        function isValidCardNumber(cardNumber) {
+            var sum = 0;
+            var doubleUp = false;
+            for (var i = cardNumber.length - 1; i >= 0; i--) {
+                var digit = parseInt(cardNumber.charAt(i));
+                if (doubleUp) {
+                    digit *= 2;
+                    if (digit > 9) digit -= 9;
+                }
+                sum += digit;
+                doubleUp = !doubleUp;
+            }
+            return sum % 10 == 0;
+        }
+
+        document.getElementById('generate-btn').addEventListener('click', function() {
+            var cardContainer = document.getElementById('card-container');
+            cardContainer.innerHTML = '';
+            var card = document.createElement('div');
+            card.className = 'card';
+            var cardNumber = '';
+            do {
+                cardNumber = generateCardNumber();
+            } while (!isValidCardNumber(cardNumber));
+            var expirationDate = new Date();
+            expirationDate.setFullYear(expirationDate.getFullYear() + Math.floor(Math.random() * (10 - 1 + 1)) + 1);
+            expirationDate.setMonth(Math.floor(Math.random() * 12));
+            expirationDate.setDate(Math.floor(Math.random() * (28 - 1 + 1)) + 1);
+            var expirationMonth = (expirationDate.getMonth() + 1).toString().padStart(2, '0');
+            var expirationYear = expirationDate.getFullYear().toString().substr(-2);
+            var cvv = Math.floor(Math.random() * 1000).toString().padStart(3, '0');
+            card.innerHTML = '<p class="card-number">' + cardNumber + '</p><p class="expiration-date">Expira em: ' + expirationMonth + '/' + expirationYear + '</p><p class="cvv">CVV: ' + cvv + '</p>';
+            cardContainer.appendChild(card);
+        });
+    </script>
+</body>
+</html>
